@@ -1,0 +1,7 @@
+Extern files for closure compiler
+
+Copied underscore and backbone externs from
+https://github.com/lukeasrodgers/underscore-js-externs
+and
+https://github.com/lukeasrodgers/backbone-js-externs
+respectively
