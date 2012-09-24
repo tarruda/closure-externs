@@ -769,6 +769,8 @@ $.error = function(message) {};
  */
 jQuery.event = function(eventType) {};
 
+jQuery.event.special = {};
+
 /**
  * @constructor
  * @extends {jQuery.event}
