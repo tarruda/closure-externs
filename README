@@ -1,7 +1,10 @@
 Extern files for closure compiler
 
-Copied underscore and backbone externs from
+Underscore and backbone externs starting points:
+
 https://github.com/lukeasrodgers/underscore-js-externs
-and
 https://github.com/lukeasrodgers/backbone-js-externs
-respectively
+
+Twitter bootstrap externs starting point:
+
+https://github.com/mechatama/externs
