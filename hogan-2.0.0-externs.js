@@ -1,3 +1,5 @@
+var Hogan = {};
+
 Hogan.Template = function(fn) {};
 
 // template result buffering

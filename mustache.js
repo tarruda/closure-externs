@@ -1,3 +1,3 @@
 var Mustache = {
-    render: function(templateStr, context)
+    render: function(templateStr, context) {}
 };
