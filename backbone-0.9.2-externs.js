@@ -328,6 +328,7 @@ Backbone.View.prototype.initialize = function(args) {};
 Backbone.View.prototype.render = function(){};
 /** @type {Element} */
 Backbone.View.prototype.el;
+Backbone.View.prototype.$;
 /** @type {jQuery} */
 Backbone.View.prototype.$el;
 Backbone.View.prototype.remove = function(){};
